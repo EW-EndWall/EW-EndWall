@@ -3,7 +3,7 @@
 
 ## EndWall 👋 Burak Top
 
-Burak was born in 2000, graduated from 1 university and continues his education at 2 different universities. His interest in software began in his teenage years, and in 2020 he decided to pursue a career in software development. It starts software with php and Node.js and then progresses with databases, libraries and frameworks, especially Mysql, MongoDb, Redis, Express, Fastify, Vue, React, Tailwind, Docker technologies.
+Burak was born in 2000, graduated from 1 university and continues his education at 2 different universities. His interest in software began in his teenage years, and in 2018 he decided to pursue a career in software development. It starts software with php and Node.js and then progresses with databases, libraries and frameworks, especially Mysql, MongoDb, Redis, Express, Fastify, Vue, React, Tailwind, Docker technologies.
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
