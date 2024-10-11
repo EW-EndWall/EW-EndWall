@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHm6AsBQnApBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724714736287?e=1730332800&v=beta&t=GA4bP-UKfsUtrb-XLIPzkLAKUHBlG6voKU6kgAqSlqQ)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFTTsgZSR9asg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728652352515?e=1733961600&v=beta&t=VjUci_fiYy7rNwYHqZDf7tfVcAAuWORDv7dL7breNgo)
 
 
 ## EndWall 👋 Burak Top
