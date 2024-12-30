@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFTTsgZSR9asg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728652352515?e=1733961600&v=beta&t=VjUci_fiYy7rNwYHqZDf7tfVcAAuWORDv7dL7breNgo)
+![Banner](https://github.com/user-attachments/assets/421d5979-16c1-46b8-9bce-ac6ea58bed18)
 
 
 ## EndWall 👋 Burak Top
