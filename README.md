@@ -25,10 +25,10 @@ Burak was born in 2000, graduated from 1 university and continues his education 
   <summary>:zap: GitHub Stats</summary>  -->
   <p align="center">
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EW-EndWall&langs_count=8&theme=material-palenight&include_all_commits=false&count_private=false&layout=compact&bg_color=ffffff00&title_color=ffffff&text_color=828282&hide_border=true" alt="EW-EndWall" />
+    <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EW-EndWall&langs_count=8&theme=material-palenight&include_all_commits=false&count_private=false&layout=compact&bg_color=ffffff00&title_color=ffffff&text_color=828282&hide_border=true" alt="EW-EndWall" />
   </a>
       <a>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=EW-EndWall&theme=material-palenight&include_all_commits=false&count_private=false&layout=compact&bg_color=ffffff00&title_color=ffffff&text_color=828282&hide_border=true" alt="EW-EndWall" />
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=EW-EndWall&theme=material-palenight&include_all_commits=false&count_private=false&layout=compact&bg_color=ffffff00&title_color=ffffff&text_color=828282&hide_border=true" alt="EW-EndWall" />
   </a> 
   <!--<a>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EW-EndWall&theme=material-palenight&hide_border=false" alt="EW-EndWall" width="55%" />
