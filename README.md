@@ -1,9 +1,10 @@
-![Banner](https://github.com/user-attachments/assets/421d5979-16c1-46b8-9bce-ac6ea58bed18)
+
+![Banner](https://github.com/user-attachments/assets/d995aa91-114f-4928-9115-45d960da53e6)
 
 
 ## EndWall 👋 Burak Top
 
-Burak was born in 2000, graduated from 1 university and continues his education at 2 different universities. His interest in software began in his teenage years, and in 2018 he decided to pursue a career in software development. It starts software with php and Node.js and then progresses with databases, libraries and frameworks, especially Mysql, MongoDb, Redis, Express, Fastify, Vue, React, Tailwind, Docker technologies.
+Burak began his passion for the software world in his youth, and he has transformed this passion into professional expertise. Specializing in modern web technologies, Burak produces solutions across a wide range of areas, from system architectures to complex project solutions. By closely following the constantly evolving technology ecosystem, he focuses not only on writing code but also on building secure, scalable, and high-performance systems.
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
