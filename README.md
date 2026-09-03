@@ -1,5 +1,4 @@
-
-![Banner](https://github.com/user-attachments/assets/d995aa91-114f-4928-9115-45d960da53e6)
+![Banner](https://github.com/user-attachments/assets/28dc8d2d-cee7-46b7-b8a6-975fa5bafb7c)
 
 
 ## EndWall 👋 Burak Top
